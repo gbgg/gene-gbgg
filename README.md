@@ -1,5 +1,4 @@
 # gene-gbgg
-![La famille](https://github.com/gbgg/gene-gbgg/assets/1830635/17d5be40-7c79-49df-a423-ecb8e488e02f)
 
 Professor Emeritus, University of Chicago, Institute for the Study of Ancient Cultures, 
 Departments: Near Eastern Languages  and Civilizations, Linguistics.
